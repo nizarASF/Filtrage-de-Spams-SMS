@@ -43,6 +43,8 @@ Le modèle est entraîné sur le célèbre dataset **SMS Spam Collection** et at
 ```
 sms-spam-filter/
 │
+├── app/
+│   └── app.py                  # site by streamlit pour test le model
 ├── data/
 │   └── spam.csv                  # Dataset SMS Spam Collection
 │
